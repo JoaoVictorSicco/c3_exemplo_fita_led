@@ -1,7 +1,7 @@
 build/
 .devcontainer/
 .vscode/
-CMakesFiles/
+CMakeFiles/
 sdkconfig
 sdkconfig.old
 
