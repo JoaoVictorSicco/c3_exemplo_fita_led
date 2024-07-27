@@ -1,0 +1,7 @@
+build/
+.devcontainer/
+.vscode/
+CMakesFiles/
+sdkconfig
+sdkconfig.old
+
